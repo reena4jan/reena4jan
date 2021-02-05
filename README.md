@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Reena
 I'm a Mathematics student from Central University of Jharkhand.
 I have keen interest in Data Science, Machine Learning, Deep learning, AI.
-How to reach me: ...reena4jan@gmail.com
- Ask me about ...
 
 <!--
 **reena4jan/reena4jan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
