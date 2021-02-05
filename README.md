@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Reena
+I'm a Mathematics Student from Central University of Jharkhand.
 
 <!--
 **reena4jan/reena4jan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
