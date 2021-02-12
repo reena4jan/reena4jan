@@ -2,7 +2,7 @@
 I'm a Mathematics student from Central University of Jharkhand.
 I have keen interest in Data Science, Machine Learning, Deep learning, AI.
 - 🌱 I’m currently learning ...Deep learning, Computer Vision.
-- 👯 I’m looking to collaborate on ... Software Developement.
+- 👯 I’m looking to collaborate on ... Software Development.
 - 🤔 I’m looking for help with ... Machine learning, Deep learning projects in healthcare domain.
 - 📫 How to reach me: ...https://www.linkedin.com/in/reena-kumari-471086118/
 - ⚡ Fun fact: ... 
